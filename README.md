@@ -193,11 +193,6 @@ pytest -q
 
 ## Public GitHub Checklist
 
-Before pushing public:
-- do **not** commit `.venv/`
-- do **not** commit API keys/secrets
-- keep `.gitignore` in repo root
-
 If using OpenAI:
 
 ```bash
